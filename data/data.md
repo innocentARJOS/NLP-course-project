@@ -1,2 +1,2 @@
 ### nothing 
-### follow the mian readme
+### follow the main readme
