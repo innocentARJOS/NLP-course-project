@@ -55,6 +55,6 @@ testing (--test_prefix dev_dev for dev set, dev_test for test set):
 CUDA_VISIBLE_DEVICES=0 python3 test.py --model_name BiLSTM --save_name checkpoint_BiLSTM --train_prefix dev_train --test_prefix dev_dev --input_theta 0.3601
 ```
 
-You can get pre-trained model in [GoogleDrive](https://drive.google.com/drive/folders/1KsTpMMF9p4x1dgKxGSjXF-_2oCweSCYm) 
+You can get pre-trained model in [GoogleDrive](https://drive.google.com/drive/folders/1KsTpMMF9p4x1dgKxGSjXF-_2oCweSCYm?usp=sharing) 
 Remember to rename the model to fix the argument --save_name checkpoint_BiLSTM .
 
